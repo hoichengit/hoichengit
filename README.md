@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Introducing Myself
 
-<!--
-**HoiChen-bayes/HoiChen-bayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Portfolio Banner](YOUR_BANNER_IMAGE_URL)
 
-Here are some ideas to get you started:
+Hello, I'm Hoi. I am a finance and data professional focused on financial analysis, FP&A, business intelligence and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines financial analysis with tools such as Power BI, SQL, Excel and Python to turn raw business data into clear insights and practical recommendations.
+
+- Financial analysis, budgeting, forecasting and variance analysis.
+- Building interactive dashboards and reports using Power BI.
+- Data analysis and transformation using SQL, Excel and Power Query.
+- Working with financial and operational datasets to identify performance drivers.
+- Developing portfolio projects across FP&A, commercial finance and retail analytics.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my financial analysis and business intelligence projects.
+
+👉 [View My Portfolio](YOUR_PORTFOLIO_REPOSITORY_LINK)
+
+### 🛠️ Tools
+
+- **Finance:** Budgeting, Forecasting, Variance Analysis, FP&A
+- **BI & Visualization:** Power BI
+- **Data:** SQL, Excel, Power Query
+- **Programming:** Python
+- **Database:** SQL Server
+
+### 👋 Connect with Me
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [Portfolio](YOUR_PORTFOLIO_REPOSITORY_LINK)
