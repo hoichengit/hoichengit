@@ -2,7 +2,7 @@
 
 ![Portfolio Banner](YOUR_BANNER_IMAGE_URL)
 
-Hello, I'm Hoi. I am a finance and data professional focused on financial analysis, FP&A, business intelligence and data-driven decision making.
+Hello, I'm Hoi. Finance and data analyst with experience in financial analysis, FP&A, Power BI reporting, SQL, and data-driven business decision support.
 
 My work combines financial analysis with tools such as Power BI, SQL, Excel and Python to turn raw business data into clear insights and practical recommendations.
 
@@ -14,19 +14,19 @@ My work combines financial analysis with tools such as Power BI, SQL, Excel and 
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my financial analysis and business intelligence projects.
-
-👉 [View My Portfolio](YOUR_PORTFOLIO_REPOSITORY_LINK)
+Welcome to my portfolio, where I showcase my [projects](YOUR_PORTFOLIO_REPOSITORY_LINK).
 
 ### 🛠️ Tools
 
-- **Finance:** Budgeting, Forecasting, Variance Analysis, FP&A
-- **BI & Visualization:** Power BI
-- **Data:** SQL, Excel, Power Query
-- **Programming:** Python
-- **Database:** SQL Server
+- Finance: Budgeting, Forecasting, Variance Analysis, FP&A
+- BI & Visualization: Power BI, Tableau
+- Data: SQL, Excel, Power Query
+- Language: Python, R
+
 
 ### 👋 Connect with Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Portfolio](YOUR_PORTFOLIO_REPOSITORY_LINK)
+- [LinkedIn](www.linkedin.com/in/hoichun-chen)
+
+### 📧 Email
+- jessechen0228@outlook.com
