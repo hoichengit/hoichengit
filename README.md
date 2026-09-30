@@ -14,7 +14,7 @@ My work combines financial analysis with tools such as Power BI, SQL, Excel and 
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](YOUR_PORTFOLIO_REPOSITORY_LINK).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/HoiChen-bayes/Portfolio-Guide.git).
 
 ### 🛠️ Tools
 
