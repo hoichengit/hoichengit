@@ -4,8 +4,6 @@
 
 Hello, I'm Hoi. Finance and data analyst with experience in financial analysis, FP&A, Power BI reporting, SQL, and data-driven business decision support.
 
-My work combines financial analysis with tools such as Power BI, SQL, Excel and Python to turn raw business data into clear insights and practical recommendations.
-
 - Financial analysis, budgeting, forecasting and variance analysis.
 - Building interactive dashboards and reports using Power BI.
 - Data analysis and transformation using SQL, Excel and Power Query.
