@@ -1,6 +1,6 @@
 ## 👋 Introducing Myself
 
-![Portfolio Banner](YOUR_BANNER_IMAGE_URL)
+![Portfolio Banner](banner.png)
 
 Hello, I'm Hoi. Finance and data analyst with experience in financial analysis, FP&A, Power BI reporting, SQL, and data-driven business decision support.
 
