@@ -1,30 +1,23 @@
-## 👋 Introducing Myself
+# Hoi Chen
 
-![Portfolio Banner](banner.png)
+### Finance, explained through the numbers.
 
-Hello, I'm Hoi. Finance and data analyst with experience in financial analysis, FP&A, Power BI reporting, SQL, and data-driven business decision support.
+**FP&A · Commercial Finance · Financial Analysis**
 
-- Financial analysis, budgeting, forecasting and variance analysis.
-- Building interactive dashboards and reports using Power BI.
-- Data analysis and transformation using SQL, Excel and Power Query.
-- Working with financial and operational datasets to identify performance drivers.
-- Developing portfolio projects across FP&A, commercial finance and retail analytics.
+I turn financial and operational data into clear analysis: what changed, why it matters, and what to examine next.
 
-### 📚 Projects
+## [Explore my visual portfolio](https://hoichengit.github.io/Portfolio-Guide/)
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/HoiChen-bayes/Portfolio-Guide.git).
+| My work | Explore |
+|---|---|
+| Budget vs Actual | [Cost drivers, forecasts and cash planning](https://hoichengit.github.io/Portfolio-Guide/#projects) |
+| Financial Dashboards | [Interactive Power BI reports](https://hoichengit.github.io/Portfolio-Guide/#projects) |
+| P&L Analysis | [P&G and NIKE financial statements](https://hoichengit.github.io/Portfolio-Guide/#projects) |
+| Stock Valuation | [Linked forecasts, DCF and sensitivities](https://hoichengit.github.io/Portfolio-Guide/#projects) |
+| SQL & Financial Data | [Transaction checks and financial research](https://hoichengit.github.io/Portfolio-Guide/#projects) |
 
-### 🛠️ Tools
+**Tools:** Excel · Power BI · Power Query · SQL · Python
 
-- Finance: Budgeting, Forecasting, Variance Analysis, FP&A
-- BI & Visualization: Power BI, Tableau
-- Data: SQL, Excel, Power Query
-- Language: Python, R
+Each case includes source data, analysis outputs and supporting evidence.
 
-
-### 👋 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/hoichun-chen)
-
-### 📧 Email
-- jessechen0228@outlook.com
+[Project documentation](https://github.com/hoichengit/Portfolio-Guide) · [LinkedIn](https://www.linkedin.com/in/hoichun-chen) · [Email](mailto:jessechen0228@outlook.com)
